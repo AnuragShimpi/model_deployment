@@ -1,0 +1,6 @@
+langchain
+langchain-cohere
+fastapi
+pydantic
+dotenv
+os
